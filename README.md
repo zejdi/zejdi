@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zejdi
+- 👀 I’m interested in programming in general.
+- 🌱 I’m currently learning Java, Kotlin for Androd
+- 📫 You can reach me at zejdi15@gmail.com      
